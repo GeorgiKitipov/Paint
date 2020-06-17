@@ -1,0 +1,21 @@
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\bin\Debug\Pain-Version-0.3.exe.config
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\bin\Debug\Pain-Version-0.3.exe
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\bin\Debug\Pain-Version-0.3.pdb
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain-Version-0.3.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain_Version_0._3.Properties.Resources.resources
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain-Version-0.3.csproj.GenerateResource.Cache
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain-Version-0.3.csproj.CoreCompileInputs.cache
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain-Version-0.3.exe
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain-Version-0.3.pdb
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain_Version_0._3.Paint.resources
+C:\Users\Ivka\source\repos\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain_Version_0._3.OldProject.resources
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\bin\Debug\Pain-Version-0.3.exe.config
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain-Version-0.3.exe
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain-Version-0.3.pdb
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\bin\Debug\Pain-Version-0.3.exe
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\bin\Debug\Pain-Version-0.3.pdb
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain-Version-0.3.csprojResolveAssemblyReference.cache
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain_Version_0._3.Paint.resources
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain_Version_0._3.OldProject.resources
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain_Version_0._3.Properties.Resources.resources
+C:\paint\My Paint\Pain-Version-0.3\Pain-Version-0.3\obj\Debug\Pain-Version-0.3.csproj.GenerateResource.Cache
